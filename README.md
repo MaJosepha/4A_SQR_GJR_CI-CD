@@ -59,7 +59,7 @@ Corrigeons le calcul de hash en prenant en compte le paramètre t : la date de t
 ![alttext](https://th.bing.com/th/id/OIP.BNlMMtzkKh4G49JGfp83gwHaFj?pid=ImgDet&rs=1)
 
 
-
+[![Projet terminé !](https://img.shields.io/badge/Projet%20termin%C3%A9-100%25-brightgreen.svg)]
 
 
 
